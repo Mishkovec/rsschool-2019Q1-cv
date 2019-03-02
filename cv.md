@@ -1,6 +1,8 @@
 # Andrei Mishkovec
 **Mobile phone:** +375291145293
+
 **Email:** andrej_mishkowez@mail.ru
+
 **github** - https://github.com/Mishkovec/
 
 ## Summary
@@ -11,6 +13,7 @@ Basic HTML/CSS/JavaScript/GIT, good knowledge Photoshop.
 
 ## Last code examples
 **Small game** https://code.sololearn.com/WyNE8z2ALRY1/#html;
+
 **Winter CSS-pictures competition** http://jsfiddle.net/Mishkovec/qgL0nbry/1/embedded/result/
 
 ## Experience
